@@ -3,7 +3,7 @@
 ## Pre-installation
 ```bash
 git clone https://github.com/dennis-1240-cdm/sudoku_slove.git
-cd sudoku_algo
+cd sudoku_slove
 pip install -r requirements.txt
 ```
 ### Usage
