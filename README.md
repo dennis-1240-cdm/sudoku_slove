@@ -1,4 +1,5 @@
-# A project for AI Lab class in Van Lang University. Sudoku Solver AI.
+# A project for AI Lab class in Van Lang University. 
+# Sudoku Solver AI.
 ## Pre-installation
 ```bash
 git clone https://github.com/dennis-1240-cdm/sudoku_slove.git
