@@ -1,4 +1,4 @@
-# A project for AI Lab class in Van Lang University. 
+# A project for Course Introduction to AI in Van Lang University. 
 # Sudoku Solver AI.
 ## Pre-installation
 ```bash
